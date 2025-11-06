@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Chivas1976/Chivas1976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hallo, ich bin Vladislav Oroz
 
-Here are some ideas to get you started:
+Ich befinde mich in der Umschulung zum **Fachinformatiker für Anwendungsentwicklung** bei der Lutz & Grub Academy GmbH.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Meine Schwerpunkte:**
+- C#, .NET, WPF
+- SQL, Entity Framework
+- HTML, CSS, JavaScript
+- Interesse an Embedded Systems, Sensorik und GUI-Design
+
+📚 **Auf meinem GitHub finden Sie einige meiner Übungs- und Lernprojekte:**
+- **CafePOS:** Kassensystem mit WPF
+- **Mega-Knödel:** GUI-Experiment mit Datenbindung
+- **TestProjektMappe:** Beispielprojekt für GitHub-Struktur
+
+🔗 **Kontakt & Profile**
+- 📧 E-Mail: dovla7608@gmail.com
+- 💼 GitHub: [github.com/Chivas1976](https://github.com/Chivas1976)
